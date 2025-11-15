@@ -13,7 +13,6 @@ https://github.com/Kurtyanik/LR6/ (Fork).
 <img width="3068" height="1723" alt="Снимок экрана (535)" src="https://github.com/user-attachments/assets/d3dffc60-f154-4b8e-9f0b-a8833a95fa65" />
 Рис.1 Сделана копия
 
-
 3. Установить Git (https://git-scm.com/).
 
 Git был установлен
@@ -21,9 +20,9 @@ Git был установлен
 4. После установки настроить клиент git, введя имя пользователя (Группа
 Фамилия И.О.) и email.
 
-
 <img width="828" height="168" alt="image" src="https://github.com/user-attachments/assets/d95dee3f-3086-491b-8d90-8b4c11e140a8" />
 Рис.2 Настройка клиента git
+
 
 7. Клонировать свой личный удалённый репозиторий на компьютер.
 8. Добавить файл через интерфейс GitHub. Подтянуть изменения в
