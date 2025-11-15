@@ -29,7 +29,6 @@ Git был установлен
 
 6. Добавить файл через интерфейс GitHub. Подтянуть изменения в
 локальный репозиторий.
-
 <img width="1016" height="591" alt="image" src="https://github.com/user-attachments/assets/3f9f9810-ec3d-4dc9-b2db-7840d26019f6" />
 
 
